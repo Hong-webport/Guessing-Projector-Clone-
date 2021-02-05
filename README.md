@@ -10,6 +10,10 @@ The tableau dashboards functioned similar to a search interface. The data extrac
 
 Im this projects, my main contribution is writing the codes that are used to extract the datas, explained the sources and keywords of the data and create the visualizations in Tableau.
 
+<img src="https://github.com/Hong-webport/Guessing-Projector-Clone-/blob/main/Preview-Images/Screenshot_1.PNG" width="720px">
+<img src="https://github.com/Hong-webport/Guessing-Projector-Clone-/blob/main/Preview-Images/Screenshot_12.PNG" width="720px">
+
+
 ## The Results
 
 There are one storyboard ([Journey](https://public.tableau.com/profile/hong.data.learn#!/vizhome/FinalProject11-19-20155Should-be-the-Finale/TheJourney)) and three dashboards([Dash A](https://public.tableau.com/profile/hong.data.learn#!/vizhome/FinalProject11-19-20155Should-be-the-Finale/TheJourney)),([Dash B](https://public.tableau.com/profile/hong.data.learn#!/vizhome/FinalProject11-19-20155Should-be-the-Finale/TheJourney)),([Dash C](https://public.tableau.com/profile/hong.data.learn#!/vizhome/FinalProject11-19-20155Should-be-the-Finale/TheJourney)) to be displayed during our representation. 
@@ -22,27 +26,32 @@ When this project ended, there are thousands of datas that had not been worked o
 
 ## Data Extraction
 
-<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(1).PNG" width="720px">
+<img src="https://github.com/Hong-webport/Guessing-Projector-Clone-/blob/main/Preview-Images/Screenshot_10.PNG" width="720px">
 
 There is a dataset obtained by a Kaggle user, containing 5000 movies with many variables, opened up a huge possibilities. The more data we have, the more variables we can used to train the algorithm. 
  
 
-<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(1).PNG" width="720px">
 
 However, because of the way the API setup, to obtain such a full data sets, it required time we can't afford, not to mentioned that we have way more than 5000. As such the team, decide to limit the variables to SIX and the datasets to three.
 
 ## Machine Learning SVM
 
-<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(1).PNG" width="720px">
 
 SVM (Support vector machine): The methods that we used for this, is chosen for its high accuracy for classification predictions, high accuracy for smaller datasets, Popular model and well documented online.
 
 
+<img src="https://github.com/Hong-webport/Guessing-Projector-Clone-/blob/main/Preview-Images/Screenshot_4.PNG" width="720px">
+
+<img src="https://github.com/Hong-webport/Guessing-Projector-Clone-/blob/main/Preview-Images/Screenshot_6.PNG" width="720px">
+
 ## Tableau
 
-<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(1).PNG" width="720px">
 
 Tableau is a great software used for integrating datas, built dashboards for analysis and documenting our progress for more.
+<img src="https://github.com/Hong-webport/Guessing-Projector-Clone-/blob/main/Preview-Images/Screenshot_13.PNG" width="720px">
+
+<img src="https://github.com/Hong-webport/Guessing-Projector-Clone-/blob/main/Preview-Images/Screenshot_7.PNG" width="720px">
+<img src="https://github.com/Hong-webport/Guessing-Projector-Clone-/blob/main/Preview-Images/Screenshot_8.PNG" width="720px">
 
 
 #### Data Sources
