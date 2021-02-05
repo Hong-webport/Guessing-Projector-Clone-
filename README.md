@@ -56,8 +56,7 @@ Tableau is a great software used for integrating datas, built dashboards for ana
 
 #### Data Sources
  
-Utelly API:https://www.utelly.com/?gclid=CjwKCAiAjeSABhAPEiwAqfxURauC5AxjD4C8tLw1ao19mzrl5qEORGyvICD8ZzNUCObgRe9z6KIGbBoC3aUQAvD_BwE
-
+Utelly API:https://www.utelly.com/
 TMDB API:https://www.themoviedb.org
 
 IMDB API: https://developer.imdb.com/
