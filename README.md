@@ -16,7 +16,7 @@ Im this projects, my main contribution is writing the codes that are used to ext
 
 ## The Results
 
-There are one storyboard ([Journey](https://public.tableau.com/profile/hong.data.learn#!/vizhome/FinalProject11-19-20155Should-be-the-Finale/TheJourney)) and three dashboards([Dash A](https://public.tableau.com/profile/hong.data.learn#!/vizhome/FinalProject11-19-20155Should-be-the-Finale/TheJourney)),([Dash B](https://public.tableau.com/profile/hong.data.learn#!/vizhome/FinalProject11-19-20155Should-be-the-Finale/TheJourney)),([Dash C](https://public.tableau.com/profile/hong.data.learn#!/vizhome/FinalProject11-19-20155Should-be-the-Finale/TheJourney)) to be displayed during our representation. 
+There are one storyboard ([Journey](https://hong-webport.github.io/Embedded-Tableau/Guessing-Projector-Story.html)) and three [dashboards](https://hong-webport.github.io/Embedded-Tableau/Guessing-Projector-Dashboards.html) to be displayed during our representation. 
 
 The storyboard narrated how our process reach to that conclusion and the dashboard is where we presented the findings. (They would look better on a 1080p full-size desktop monitor screen if you download the workbook.) More practice in tableau behaviors.
 
